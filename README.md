@@ -68,3 +68,10 @@ Las listas anidadas son listas dentro de listas
 	- ...dentro de otra con orden
 
 Para meter una lista dentro de otra, utilizamos la tabulación.
+
+### Imagenes
+
+Para añadir una imagen hemos de dar una descripcion y la imagen. Todo ha de estar junto sin ningun tipo de espacio.
+
+![LebronJames](lebron.jpg)
+
